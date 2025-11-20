@@ -14,3 +14,4 @@ description: "课程代码: SE1102"
 ## 真题卷
 
 [期中](https://drive.vanillaaaa.org/SharedCourses/软件工程学院/高等数学（一）)
+[2025期中](https://pan.baidu.com/s/19bwy9u860dxVA3inOBu05w?pwd=ECNU)
